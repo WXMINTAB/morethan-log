@@ -11,14 +11,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: "wxmin.log",
+      name: "wxmin-log",
       href: "",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "wxmin.log",
-    description: "welcome to wxmin.log!",
+    title: "wxmin-log",
+    description: "welcome to wxmin-log!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
